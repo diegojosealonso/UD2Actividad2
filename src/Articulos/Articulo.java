@@ -7,7 +7,7 @@ public class Articulo {
     private int anyoLanzamiento;
     private double precioPorDia;
 
-    //creamos los construcotres, primero uno completo y luego otro vacío
+    //creamos los constructores, primero uno completo y luego otro vacío
     public Articulo(String titulo, int anyoLanzamiento, double precioPorDia) {
         this.titulo = titulo;
         this.anyoLanzamiento = anyoLanzamiento;
